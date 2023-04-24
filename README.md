@@ -6,9 +6,11 @@ Will do the same for a live action movie, once I decide which one to use.
 Script used:
 
 ffms2("Inno.mkv")
+
 crop(2,22,-2,-22)
 
 convertbits(16)
+
 FilmGrainPlus(preset="Vision3 5219 500T")
 
 converttorgb48(matrix="709:l")
