@@ -12,7 +12,7 @@ crop(2,22,-2,-22)
 
 convertbits(16)
 
-FilmGrainPlus(preset="Vision3 5219 500T")
+FilmGrainPlus(preset="EXR     5245  50D")
 
 converttorgb48(matrix="709:l")
 
